@@ -6,7 +6,7 @@ import java.util.Scanner;
 		int base = sc.nextInt();
 		int exponent = sc.nextInt();
 		
-		int result = Math.pow(base, exponent);
+		double result = Math.pow(base, exponent);
 		
 		System.out.println(result);
 	}
