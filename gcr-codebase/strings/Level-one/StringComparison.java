@@ -10,7 +10,8 @@ Use the String Built-In method to check if the results are the same and display 
 import java.util.Scanner;
 
 public class StringComparison{
-
+	
+	// method to comapre string using charAt
 	public static boolean stringComparisionUsingCharAt(String one, String two){
 	
 		boolean compare = true;
@@ -29,7 +30,7 @@ public class StringComparison{
 		}
 		return compare;
 	}	
-	
+	// method to compare string using in built method
 	public static boolean stringComparisionUsingEqual(String one , String two){
 		
 		boolean compare = one.equals(two);
@@ -37,7 +38,7 @@ public class StringComparison{
 		return compare;
 		
 	}
-	
+	// main method
 	public static void main(String[] args){
 		
 		Scanner sc = new Scanner(System.in);
@@ -61,6 +62,7 @@ public class StringComparison{
 			System.out.println("Both answer are not same.");	
 		}
 		
+		// close scanner 
 		sc.close();
 	}
 }	
