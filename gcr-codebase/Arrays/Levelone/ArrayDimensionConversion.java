@@ -57,8 +57,9 @@ public class ArrayDimensionConversion{
 					System.out.println("\n2d array matrix: ");
 					for( int i = 0; i < rows ; i++ ){			
 				        for( int j = 0 ; j < cols ; j++){
-							System.out.println(matrix[i][j] + " ");
-						}	
+							System.out.print(matrix[i][j] + " ");
+						}
+						System.out.println( );
 				    }
 
 					// display 1d array	
