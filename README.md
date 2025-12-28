@@ -27,6 +27,18 @@ C:.
 
 ```
 
+### 🗓 Day 2 – Git Practice & Basic Java Programs  
+**Date:** 16-Dec-2025
+
+- Practiced Git workflow to understand commits and version control.
+- Solved very basic Java programs to understand syntax and structure.
+- Practiced adding, committing, and pushing Java files to GitHub.
+
+🔗 **Code Link:**  
+👉 [Day 2 – Basic Java Programs](https://github.com/rudraraj100/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prequisites)
+
+---
+
 - Learned basic git commands like (git init, git status, git commit -m "", git add, git push
 - Successfully pushed files to the remote repository
 
