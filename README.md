@@ -9,3 +9,14 @@
 
 Assignment:[https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject]
 
+# Day 2 – Constructors & Variables
+---
+**date**: 27 Dec 2025
+## Topics Covered:
+- Java Constructors
+- Default constructors
+- Parameterized constructors
+- Instance Variables vs Class (Static) Variables
+- this keyword usage
+
+Assignment:[https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/Levelone]
