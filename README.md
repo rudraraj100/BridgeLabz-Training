@@ -44,3 +44,18 @@ C:.
 
 ***
 
+### 🗓 Day 3 – Programming Elements in Java  
+**Date:** 17-Dec-2025
+
+- Studied Java programming elements:
+  - Variables and data types
+  - Operators
+  - User input and output
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 3 – Programming Elements](https://github.com/rudraraj100/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+---
+
