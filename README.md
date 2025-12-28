@@ -115,4 +115,26 @@ C:.
 
 ---
 
+# Week2 : Worked on Strings and Extras Problems
+
+---
+## 📅 Day 1 – Strings Concepts & Problems  
+**Date:** 22-Dec-2025 
+
+- [Learn the string concepts](https://docs.google.com/document/d/1-UXHtzpozVZznDVGYivscpQYEL6-vxOFZWiPpvBH5CE/edit?tab=t.0#heading=h.66yv6crqdvrd)
+    - Learn about built in methods for strings
+    - Why string is immutable
+    - Exception handling
+ 
+- Solve Problems at three levels
+   - **Level1** Basic problems to create own method resemebles built in method
+   - **Level2** Learn how to print data in tabular format
+   - **Level2** Solve random values generated problems
+
+
+🔗 **Code Link:** <br>
+👉[Day 1 - String problems](https://github.com/rudraraj100/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+ ---
+
 
