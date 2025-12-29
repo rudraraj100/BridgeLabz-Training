@@ -31,7 +31,7 @@ public class CoffeeCounter {
 
             // Exit condition to stop the program
             if (coffeeType.equalsIgnoreCase("exit")) {
-                System.out.println("Cafe closed. Thank you for visiting ☕");
+                System.out.println("Cafe closed. Thank you for visiting");
                 break;
             }
 
@@ -65,7 +65,7 @@ public class CoffeeCounter {
 
                 // If coffee type is invalid
                 default:
-                    System.out.println("Invalid coffee type ❌");
+                    System.out.println("Invalid coffee type");
                     continue; // Skip current iteration
             }
 
