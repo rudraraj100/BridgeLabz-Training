@@ -21,3 +21,16 @@ Assignment: [day1](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-
 - this keyword usage
 
 Assignment:[day2](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/Levelone)
+
+# Week 2:
+***
+## Day 1 - This, Static, Final Keywords and Instance
+---
+**date**: 29 Dec 2025
+### Topics Covered:
+- this- static 
+- final 
+- instance of operator
+
+- Assignment:[Day1](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
+
