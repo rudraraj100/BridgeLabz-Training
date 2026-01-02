@@ -155,6 +155,52 @@ C:.
   👉[Built in functions 2](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details)
 
 ---
+## 📅 Day 3 – Solved following SBQ's 
+**Date:** 24-Dec-2025 
+1. *Maya’s BMI Fitness Tracker*
+Maya is a fitness coach who wants to calculate BMI for her clients.
+- Takes height and weight as input
+- BMI using the formula BMI = weight / (height * height)
+- Prints the BMI category as Underweight, Normal, or Overweight
+
+[Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/BMIFitnessTracker.java)
+
+ ## 📅 Day 4 – Solved following SBQ's 
+**Date:** 27-Dec-2025 
+1. *The Coffee Counter Chronicles*
+Ravi runs a café where customers order different types of coffee with specific quantities.
+- using switch, accepts quantity, calculates the total bill
+- The program should stop when the user types “exit”.
+
+[Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/CoffeeCounter.java)
+
+2. *Election Booth Manager* ️
+Design a polling booth system.
+- Take age input.
+- Use if to check if eligible (>=18).
+- Record vote (1, 2, or 3 for candidates).
+- Loop for multiple voters, exit on special code.
+
+[Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/ElectionBoothManager.java)
+
+3. *Metro Smart Card Fare Deduction*
+In Delhi Metro, fare varies by distance.
+- Ask the user for distance.
+- Calculate fare using ternary operator.
+- Deduct from smart card balance.
+Loop until balance is exhausted or the user quits.
+
+[Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/MetroSmartCard.java)
+
+4. *Raj’s Result Generator* ‍
+Raj runs a coaching center. He needs to generate results.
+- Input 5 subject marks.
+- Calculate average.
+- Switch to assign grades.
+- for-loop to iterate over subjects.
+
+[Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/RajResultGenerator.java)
+
 
 # 📚 Week-3 Scenario-Based Problems (SBQ)
 
