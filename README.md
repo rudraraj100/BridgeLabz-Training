@@ -154,5 +154,62 @@ C:.
   👉[Built in functions 1](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details) , 
   👉[Built in functions 2](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details)
 
+---
+
+# 📚 Week-3 Scenario-Based Problems (SBQ)
+## 📅 Day 1 - Solved following SBQ's
+**Date** 29-Dec-2025
+
+
+1. *Parking Lot Gate Systemn*
+ 
+-  Developed a smart parking system  
+-  Menu options: Park, Exit, Show Occupancy  
+-  Used switch-case for menu handling  
+-  Used while loop to keep the system running  
+
+🔗 [Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/ParkingLotsystem.java)
+
+
+
+2. *Number Guessing Game*
+-  Player guesses a number between 1 and 100  
+-  Implemented using do-while loop  
+-  Shows hints: Too High / Too Low  
+-  Game ends after 5 wrong attempts  
+
+🔗 [Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/NumberGuessingGame.java)
+
+
+
+3. *Shopkeeper’s Discount Dashboard*
+-  Item prices taken using a for loop  
+-  Total bill calculated  
+-  Discount applied using if-else  
+-  Followed clean coding standards  
+
+🔗 [Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/DiscountDashboard.java)
+
+
+
+4. *School Bus Attendance System*
+-  Attendance of 10 students tracked  
+-  Used for-each loop for names  
+-  Input: Present / Absent  
+-  Displayed total present & absent count  
+
+🔗 [Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/AttendanceSystem.java)
+
+
+
+5. *Phone Recharge Simulator*
+- ○ Takes mobile operator and recharge amount  
+- ○ Uses switch for operator offers  
+- ○ Loop allows multiple recharges  
+- ○ Displays updated balance  
+
+🔗 [Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/PhoneRecharge.java)
+
+--- 
 
 
