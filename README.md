@@ -157,6 +157,7 @@ C:.
 ---
 
 # 📚 Week-3 Scenario-Based Problems (SBQ)
+
 ## 📅 Day 1 - Solved following SBQ's
 **Date** 29-Dec-2025
 
@@ -210,6 +211,55 @@ C:.
 
 🔗 [Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/PhoneRecharge.java)
 
---- 
+---
+
+## Day 2 - Solved following SBQ's
+**Date:** 30-Dec-2025
+
+1. *Temperature Logger*
+   
+  - Recorded temperatures over 7 days using an array.
+  - Used for-loop to input data.
+  - Calculated: Average temperature, Maximum temperature
+  - Used if conditions for comparisons.
+  - Maintained readable variable names and modular logic.
+
+[Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/TemperatureLogger.java)
+
+2. *Train Reservation Queue*
+   
+  - Simulated a basic ticket booking system.
+  - Displayed menu using switch-case.
+  - Allowed multiple bookings using while-loop.
+  - Stopped booking once seats reached zero using break.
+
+[Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/TrainReservation.java)
+
+3.  *Sandeep’s Fitness Challenge Tracker*
+   
+  - Stored daily push-up counts for a week.
+  - Used for-each loop to calculate:
+  - Total push-ups
+  - Average push-ups
+  - Used continue to skip rest days.
+
+[Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/FitnessTracker.java)
+
+4. *Movie Ticket Booking App*
+   
+  - Asked users for: Movie type, Seat type (Gold / Silver), Snacks selection
+  - Used switch and if-else together.
+  - Looped through multiple customers.
+
+[Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/MovieTicketBooking.java)
+
+5. *Rohan’s Library Reminder App*
+  - Calculated library fines based on: Due date and return date
+  - Fine charged: ₹5 per day for late returns.
+  - Repeated fine calculation for 5 books using for-loop.
+
+[Code Link](https://github.com/rudraraj100/BridgeLabz-Training/blob/core-java-practice/scenario-based/LibraryApp.java)
+
+---
 
 
