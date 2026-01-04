@@ -34,3 +34,13 @@ Assignment:[day2](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-o
 
 - Assignment:[Day1](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
 
+## Day 2 - Object modelling and Class Diagram
+---
+**date**: 30 Dec 2025
+### Topic Covered:
+- Classes vs. Objects in Java
+- Class Diagram
+- Object Diagrams
+- Sequence Diagrams
+
+- Assignment[object modelling](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
