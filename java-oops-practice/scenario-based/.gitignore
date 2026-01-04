@@ -1,0 +1,13 @@
+# Eclipse specific files
+
+/gcr-codebase/.metadata/
+
+/gcr-codebase/javaOopsConcepts/.settings
+
+/gcr-codebase/javaOopsConcepts/.classpath
+
+/gcr-codebase/javaOopsConcepts/.project
+
+# Java build output
+
+/gcr-codebase/javaOopsConcepts/bin/
