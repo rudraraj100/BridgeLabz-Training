@@ -1,0 +1,15 @@
+package com.inheritance.hybridinheritance.restaurantmanagementsystem;
+
+class Waiter extends Person implements Worker {
+
+    Waiter(String name, int id) {
+        super(name, id);
+    }
+
+    @Override
+    public void performDuties() {
+    	super.displayInfo();
+        System.out.println("Waiter is serving customers");
+    }
+}
+
