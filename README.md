@@ -72,9 +72,7 @@ Assingment: [Inheritance](https://github.com/rudraraj100/BridgeLabz-Training/tre
 
 Assingment: [Oops Three pillars](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
 
-# Week 3:
-***
-## Day 1 - Solved scenario based problems
+## Day 5 - Solved scenario based problems
 ---
 **date**: 02 Jan 2026
 ### Questions:
@@ -97,3 +95,17 @@ Scenario: Users can control appliances like lights, fans, ACs via a smart interf
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1)
 
+## Day 6 - Solved scenario based problems
+---
+**date**: 03 Jan 2026
+### Questions:
+
+- "CabbyGo – A Ride-Hailing App in the Making"
+Story: You’ve joined a startup building CabbyGo, a ride-hailing app. You're tasked with building
+the backend logic for managing vehicles, drivers, and ride booking.
+
+- "MyBank – Managing Customer Accounts"
+Story: You're building the core banking module for MyBank, a digital-first bank. Your job is to
+manage customer accounts, deposits, and interest calculations.
+
+Solution: [Files](http://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
