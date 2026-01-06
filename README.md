@@ -72,3 +72,28 @@ Assingment: [Inheritance](https://github.com/rudraraj100/BridgeLabz-Training/tre
 
 Assingment: [Oops Three pillars](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
 
+# Week 3:
+***
+## Day 1 - Solved scenario based problems
+---
+**date**: 02 Jan 2026
+### Questions:
+
+- Hospital Patient Management System
+Scenario: A hospital wants a software module to register patients, assign doctors, and maintain
+billing.
+
+- Vehicle Rental Application
+Scenario: Build a system for renting bikes, cars, and trucks to customers.
+
+- University Course Enrollment System
+Scenario: Students should be able to enroll in courses, and faculty can assign grades.
+
+- E-Wallet Application
+Scenario: Users can register, load money, transfer funds, and view transaction history.
+
+- Smart Home Automation System
+Scenario: Users can control appliances like lights, fans, ACs via a smart interface.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1)
+
