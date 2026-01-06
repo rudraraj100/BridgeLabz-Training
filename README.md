@@ -8,7 +8,7 @@
 - Understanding Class and Object
 - Real-world examples using Java classes
 
-Assignment: [day1](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+Assignment: [class/object](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 
 ## Day 2 – Constructors & Variables
 ---
@@ -20,7 +20,7 @@ Assignment: [day1](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-
 - Instance Variables vs Class (Static) Variables
 - this keyword usage
 
-Assignment:[day2](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/Levelone)
+Assignment: [Constructor](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/Levelone)
 
 # Week 2:
 ***
@@ -32,7 +32,7 @@ Assignment:[day2](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-o
 - final 
 - instance of operator
 
-- Assignment:[Day1](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
+Assignment: [Keywords](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
 
 ## Day 2 - Object modelling and Class Diagram
 ---
@@ -43,4 +43,20 @@ Assignment:[day2](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-o
 - Object Diagrams
 - Sequence Diagrams
 
-- Assignment[object modelling](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
+  Assignment: [object modelling](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
+
+## Day 3 - Inheritance
+---
+**date**: 31 Dec 2025
+### Topic Covered:
+- Inheritance
+- Single Level Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+
+Assingment: [Inheritance](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
