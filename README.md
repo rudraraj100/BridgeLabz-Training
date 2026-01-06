@@ -60,3 +60,15 @@ Assignment: [Keywords](https://github.com/rudraraj100/BridgeLabz-Training/tree/j
 - Access Modifiers and Inheritance
 
 Assingment: [Inheritance](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
+## Day 4 - Oops three pillars
+---
+**date**: 1st Jan 2026
+### Topic Covered:
+- Encapsulation
+- Polymorphism 
+- Interface
+- Abstract Classes
+
+Assingment: [Oops Three pillars](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+
