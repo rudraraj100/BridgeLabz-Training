@@ -109,3 +109,21 @@ Story: You're building the core banking module for MyBank, a digital-first bank.
 manage customer accounts, deposits, and interest calculations.
 
 Solution: [Files](http://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
+
+# Week 3:
+***
+## Day 1 - Solved scenario based problems
+---
+**date**: 05 Jan 2026
+### Questions:
+
+- "CampusConnect – College Information System"
+Story: Your university launches CampusConnect, a portal to manage students, teachers, and
+courses. You're developing the academic module.
+
+- "SwiftCart – The Grocery Shopping App"
+Story: You're building SwiftCart, an online grocery platform where users add items to cart and
+check out. The backend logic for cart management is your task.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3)
+
