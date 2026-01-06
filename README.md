@@ -127,3 +127,17 @@ check out. The backend logic for cart management is your task.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3)
 
+## Day 2 - Solved scenario based problems
+---
+**date**: 06 Jan 2026
+### Questions:
+
+-  "EduMentor – Personalized Learning Platform"
+Story: EduMentor is an AI-based learning platform. You're tasked with implementing the module
+to manage courses, quizzes, and learner progress.
+
+-  "FitTrack – Your Personal Fitness Tracker"
+Story: You’ve been hired to develop FitTrack, a fitness tracking app that monitors users'
+workouts, calories, and daily progress.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4)
