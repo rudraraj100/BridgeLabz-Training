@@ -1,14 +1,11 @@
-# Eclipse specific files
+# Compiled Java files
+*.class
 
-/gcr-codebase/.metadata/
+# Java build output (all bin folders)
+bin/
 
-/gcr-codebase/javaOopsConcepts/.settings
-
-/gcr-codebase/javaOopsConcepts/.classpath
-
-/gcr-codebase/javaOopsConcepts/.project
-
-# Java build output
-
-/gcr-codebase/javaOopsConcepts/bin/
-/.metadata/
+# Eclipse / IDE files
+.metadata/
+.settings/
+.classpath
+.project
