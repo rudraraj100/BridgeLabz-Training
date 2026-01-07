@@ -12,14 +12,14 @@ It showcases consistent hands-on practice, logical thinking, and real-world prob
 - Git & GitHub
 - Command Line Interface (CLI)
 
-###Object-Oriented Programming (OOP)
+### Object-Oriented Programming (OOP)
 
 -UML Diagrams (Class, Object, Sequence)
 
 
-📅 Learning Breakdown
+ Learning Breakdown
 
-#🔹 Week 1 – Git, GitHub & Java Fundamentals
+# Week 1 – Git, GitHub & Java Fundamentals
 
 Git installation and GitHub setup
 Branching and version control workflow
@@ -31,7 +31,7 @@ Methods and reusable logic
 ## Focus: Strong foundation in Java and Git
 ---
 
-#🔹 Week 2 – Strings & Extras
+# Week 2 – Strings & Extras
 
 String concepts and immutability
 Built-in string methods
@@ -52,14 +52,14 @@ loops (for, while, do-while)
 arrays and user input 
 Examples include:
 
-##BMI Tracker
+## BMI Tracker
 Metro Smart Card System
 Election Booth Manager 
 Parking Lot System
 Train Reservation System
 Movie Ticket Booking App
 
-###Focus: Logic building & real-world simulations
+### Focus: Logic building & real-world simulations
 ---
 
 ## Java OOP Concepts
@@ -101,3 +101,19 @@ Professional use of Git & GitHub workflows
 
 This repository reflects my growth as a Java developer, from basics to structured object-oriented design, with a strong focus on logic, clarity, and best practices.
 ---
+
+# Week 3
+
+## DSA & Linked List Basics(Branch dsa-practice)
+- Introduction to Data Structures in Java  
+- Types and features of Data Structures  
+- Singly, Doubly, and Circular Linked Lists  
+- Hands-on Linked List implementations
+
+ Assingment[Linkedlist](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/linkedlist)
+
+---
+
+
+
+
