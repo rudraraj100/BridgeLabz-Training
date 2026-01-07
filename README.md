@@ -109,3 +109,35 @@ Story: You're building the core banking module for MyBank, a digital-first bank.
 manage customer accounts, deposits, and interest calculations.
 
 Solution: [Files](http://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
+
+# Week 3:
+***
+## Day 1 - Solved scenario based problems
+---
+**date**: 05 Jan 2026
+### Questions:
+
+- "CampusConnect – College Information System"
+Story: Your university launches CampusConnect, a portal to manage students, teachers, and
+courses. You're developing the academic module.
+
+- "SwiftCart – The Grocery Shopping App"
+Story: You're building SwiftCart, an online grocery platform where users add items to cart and
+check out. The backend logic for cart management is your task.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3)
+
+## Day 2 - Solved scenario based problems
+---
+**date**: 06 Jan 2026
+### Questions:
+
+-  "EduMentor – Personalized Learning Platform"
+Story: EduMentor is an AI-based learning platform. You're tasked with implementing the module
+to manage courses, quizzes, and learner progress.
+
+-  "FitTrack – Your Personal Fitness Tracker"
+Story: You’ve been hired to develop FitTrack, a fitness tracking app that monitors users'
+workouts, calories, and daily progress.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4)
