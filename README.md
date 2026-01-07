@@ -1,9 +1,8 @@
 
-BridgeLabz Java Training Repository
 ---
 📌 Overview
 
-This repository documents my learning journey through Git, GitHub, Core Java, Scenario-Based Problem Solving, and Java Object-Oriented Programming (OOP) as part of BridgeLabz training.
+This repository documents my learning journey through Git, GitHub, Core Java, Scenario-Based Problem Solving, Java Object-Oriented Programming (OOP) and Data Structure algorithm(DSA).
 It showcases consistent hands-on practice, logical thinking, and real-world problem-solving using Java.
 
 ### Technologies & Tools Used
@@ -12,14 +11,9 @@ It showcases consistent hands-on practice, logical thinking, and real-world prob
 - Git & GitHub
 - Command Line Interface (CLI)
 
-### Object-Oriented Programming (OOP)
-
--UML Diagrams (Class, Object, Sequence)
-
-
  Learning Breakdown
 
-# Week 1 – Git, GitHub & Java Fundamentals
+## Week 1 – Git, GitHub & Java Fundamentals
 
 Git installation and GitHub setup
 Branching and version control workflow
@@ -28,10 +22,10 @@ Control flow statements and loops
 Arrays and problem-solving
 Methods and reusable logic
 
-## Focus: Strong foundation in Java and Git
----
+Focus: Strong foundation in Java and Git
 
-# Week 2 – Strings & Extras
+## Week 2 – Strings & Extras
+--- 
 
 String concepts and immutability
 Built-in string methods
@@ -42,9 +36,9 @@ Date & Time APIs (LocalDate, LocalTime)
 Advanced string problems (anagram, frequency, substring)
 
 Focus: Core Java depth and built-in utilities
----
 
-# Week 3 – Scenario-Based Problems (SBQ)
+## Week 3 – Scenario-Based Problems (SBQ)
+--- 
 
 Real-world Java applications using:
 if-else, switch-case
@@ -52,26 +46,26 @@ loops (for, while, do-while)
 arrays and user input 
 Examples include:
 
-## BMI Tracker
-Metro Smart Card System
-Election Booth Manager 
-Parking Lot System
-Train Reservation System
-Movie Ticket Booking App
+- BMI Tracker
+- Metro Smart Card System
+- Election Booth Manager 
+- Parking Lot System
+- Train Reservation System
+- Movie Ticket Booking App
 
-### Focus: Logic building & real-world simulations
+Focus: Logic building & real-world simulations
+
+# Java OOP Concepts Started
 ---
 
-## Java OOP Concepts
-
-# Week 1 – OOP Fundamentals
+## Week 1 – OOP Fundamentals
 
 Class & Object concepts
 Constructors (default & parameterized)
 Instance vs Static variables
 this keyword usage
 
-# Week 2 – Advanced OOP & Design
+## Week 2 – Advanced OOP & Design
 
 this, static, final keywords
 instanceof operator
@@ -81,25 +75,15 @@ Class Diagrams
 Object Diagrams
 Sequence Diagrams
 
- Focus: Clean design & object-oriented thinking
-
-## Repository Highlights
----
-Well-structured folder organization
-Modular and readable Java code
-Daily commits showing consistent progress
-Practical use of GitHub for collaboration and version control
+Focus: Clean design & object-oriented thinking
 
 ## Key Takeaways
----
+
 Strong grip on Core Java fundamentals
 Hands-on experience with real-world scenarios
 Clear understanding of OOP principles
 Professional use of Git & GitHub workflows
 
-# Learning Outcome
-
-This repository reflects my growth as a Java developer, from basics to structured object-oriented design, with a strong focus on logic, clarity, and best practices.
 ---
 
 # Week 3
@@ -113,6 +97,17 @@ This repository reflects my growth as a Java developer, from basics to structure
  Assingment[Linkedlist](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/linkedlist)
 
 ---
+## 🧱 Stack, Queue & HashMap(Branch dsa-practice)
+- Stack operations and use cases  
+- Queue concepts and implementations  
+- HashMap and hashing functions  
+- Practice through coding assignments
+Assignment[Stack and queue](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/stackandqueue) 
+[Hashmap](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/hashmap)
+
+---
+
+
 
 
 
