@@ -140,4 +140,11 @@ to manage courses, quizzes, and learner progress.
 Story: You’ve been hired to develop FitTrack, a fitness tracking app that monitors users'
 workouts, calories, and daily progress.
 
+-  "PetPal – Virtual Pet Care App"
+Story: You’re creating PetPal, an app that allows users to adopt and care for virtual pets like
+dogs, cats, and birds.
+
+- "EventEase – Event Management Platform"
+Story: EventEase helps users organize events like birthdays, weddings, and conferences.
+
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4)
