@@ -15,37 +15,18 @@ It showcases consistent hands-on practice, logical thinking, and real-world prob
 
 ## Week 1 – Git, GitHub & Java Fundamentals
 
-Git installation and GitHub setup
-Branching and version control workflow
-Java basics: syntax, programming elements
-Control flow statements and loops
-Arrays and problem-solving
-Methods and reusable logic
+- Git installation and GitHub setup
+- Branching and version control workflow
+- Java basics: syntax, programming elements
+- Control flow statements and loops
+- Arrays and problem-solving
+- Methods and reusable logic
+- Strings: Advanced string problems (anagram, frequency, substring)
+- Extras: Date & Time APIs (LocalDate, LocalTime), Exception handling basics
 
-Focus: Strong foundation in Java and Git
-
-## Week 2  
-### - Strings & Extras
+### Focus: Strong foundation in Java and Git  
 --- 
-
-String concepts and immutability
-Built-in string methods
-Exception handling basics
-Tabular output formatting
-Date & Time APIs (LocalDate, LocalTime)
-
-Advanced string problems (anagram, frequency, substring)
-
-Focus: Core Java depth and built-in utilities
-
 ### – Scenario-Based Problems (SBQ)
---- 
-
-Real-world Java applications using:
-if-else, switch-case
-loops (for, while, do-while)
-arrays and user input 
-Examples include:
 
 - BMI Tracker
 - Metro Smart Card System
@@ -59,33 +40,20 @@ Focus: Logic building & real-world simulations
 # Java OOP Concepts Started
 ---
 
-### – OOP Fundamentals
+## Week 2 – OOP Fundamentals
 
-Class & Object concepts
-Constructors (default & parameterized)
-Instance vs Static variables
-this keyword usage
-
-## Week 2 – Advanced OOP & Design
-
-this, static, final keywords
-instanceof operator
-Object modeling concepts
-UML Diagrams:
-Class & Object Diagrams
-Oops four pillars
+- Class & Object concepts
+- Constructors (default & parameterized)
+- this, static, final keywords
+- instanceof operator
+- Object modeling concepts
+- UML Diagrams:
+- Class & Object Diagrams
+- Oops four pillars
 
 Focus: Clean design & object-oriented thinking
 
-## Key Takeaways
-
-Strong grip on Core Java fundamentals
-Hands-on experience with real-world scenarios
-Clear understanding of OOP principles
-
----
-
-# Week 3
+## Week 3 -  Data structure algorithm and Oops Scenario questions
 
 ## DSA & Linked List Basics(Branch dsa-practice)
 - Introduction to Data Structures in Java  
@@ -101,7 +69,8 @@ Clear understanding of OOP principles
 - Queue concepts and implementations  
 - HashMap and hashing functions  
 - Practice through coding assignments
-Assignment[Stack and queue](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/stackandqueue) 
+
+Assignment: [Stack and queue](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/stackandqueue) 
 [Hashmap](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/hashmap)
 
 ---
@@ -143,6 +112,23 @@ Assignment[Stack and queue](https://github.com/rudraraj100/BridgeLabz-Training/t
 
 ---
 
+## Lifestyle application(Branch java-oops-practice)
 
+-  "LoanBuddy – Loan Approval Automation"
+Story: A fintech startup named FinlyTech is launching a product called LoanBuddy, a web and
+mobile app that automates personal loan approvals for salaried and self-employed applicants.
+LoanBuddy should collect applicant data, verify eligibility, evaluate credit risk, and either
+approve or reject the loan based on custom rules. It also calculates monthly EMIs and provides
+a personalized repayment plan.
 
+-  "BookBazaar – Digital Bookstore System"
+Story: You’re building the backend for BookBazaar, an online bookstore. It must handle book
+inventory, orders, and discounts.
 
+- "ParkEase – Smart Parking Management System"
+Story: A city wants a smart parking solution that can assign parking slots, calculate charges,
+and track availability in real time.
+
+[Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day5)
+
+---
