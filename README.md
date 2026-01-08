@@ -1,4 +1,4 @@
-# Week 1:
+# Week 1: Object Oriented Programming
 ***
 ## Day 1 – OOP Fundamentals & Class/Object
 ---
@@ -22,7 +22,7 @@ Assignment: [class/object](https://github.com/rudraraj100/BridgeLabz-Training/tr
 
 Assignment: [Constructor](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/Levelone)
 
-# Week 2:
+# Week 2: Keywords, Object Modelling and Oops Pillars
 ***
 ## Day 1 - This, Static, Final Keywords and Instance
 ---
@@ -110,7 +110,7 @@ manage customer accounts, deposits, and interest calculations.
 
 Solution: [Files](http://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
 
-# Week 3:
+# Week 3: Scenario Based Questions
 ***
 ## Day 1 - Solved scenario based problems
 ---
