@@ -24,7 +24,8 @@ Methods and reusable logic
 
 Focus: Strong foundation in Java and Git
 
-## Week 2 – Strings & Extras
+## Week 2  
+### - Strings & Extras
 --- 
 
 String concepts and immutability
@@ -37,7 +38,7 @@ Advanced string problems (anagram, frequency, substring)
 
 Focus: Core Java depth and built-in utilities
 
-## Week 3 – Scenario-Based Problems (SBQ)
+### – Scenario-Based Problems (SBQ)
 --- 
 
 Real-world Java applications using:
@@ -58,7 +59,7 @@ Focus: Logic building & real-world simulations
 # Java OOP Concepts Started
 ---
 
-## Week 1 – OOP Fundamentals
+### – OOP Fundamentals
 
 Class & Object concepts
 Constructors (default & parameterized)
@@ -71,9 +72,8 @@ this, static, final keywords
 instanceof operator
 Object modeling concepts
 UML Diagrams:
-Class Diagrams
-Object Diagrams
-Sequence Diagrams
+Class & Object Diagrams
+Oops four pillars
 
 Focus: Clean design & object-oriented thinking
 
@@ -82,7 +82,6 @@ Focus: Clean design & object-oriented thinking
 Strong grip on Core Java fundamentals
 Hands-on experience with real-world scenarios
 Clear understanding of OOP principles
-Professional use of Git & GitHub workflows
 
 ---
 
