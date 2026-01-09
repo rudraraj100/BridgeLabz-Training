@@ -1,4 +1,4 @@
-# Week 1:
+# Week 1: Object Oriented Programming
 ***
 ## Day 1 – OOP Fundamentals & Class/Object
 ---
@@ -22,7 +22,7 @@ Assignment: [class/object](https://github.com/rudraraj100/BridgeLabz-Training/tr
 
 Assignment: [Constructor](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/Levelone)
 
-# Week 2:
+# Week 2: Keywords, Object Modelling and Oops Pillars
 ***
 ## Day 1 - This, Static, Final Keywords and Instance
 ---
@@ -110,7 +110,7 @@ manage customer accounts, deposits, and interest calculations.
 
 Solution: [Files](http://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
 
-# Week 3:
+# Week 3: Scenario Based Questions
 ***
 ## Day 1 - Solved scenario based problems
 ---
@@ -148,3 +148,25 @@ dogs, cats, and birds.
 Story: EventEase helps users organize events like birthdays, weddings, and conferences.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4)
+
+## Day 3 - Solved scenario based problems
+---
+**date**: 07 Jan 2026
+### Questions:
+
+- LoanBuddy – Loan Approval Automation"
+Story: A fintech startup named FinlyTech is launching a product called LoanBuddy, a web and
+mobile app that automates personal loan approvals for salaried and self-employed applicants.
+LoanBuddy should collect applicant data, verify eligibility, evaluate credit risk, and either
+approve or reject the loan based on custom rules. It also calculates monthly EMIs and provides
+a personalized repayment plan.
+
+- "BookBazaar – Digital Bookstore System"
+Story: You’re building the backend for BookBazaar, an online bookstore. It must handle book
+inventory, orders, and discounts.
+
+-  "ParkEase – Smart Parking Management System"
+Story: A city wants a smart parking solution that can assign parking slots, calculate charges,
+and track availability in real time.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day5)
