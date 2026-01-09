@@ -1,4 +1,4 @@
-# Week 1: Object Oriented Programming
+# Week 2: Object Oriented Programming
 ***
 ## Day 1 – OOP Fundamentals & Class/Object
 ---
@@ -22,7 +22,7 @@ Assignment: [class/object](https://github.com/rudraraj100/BridgeLabz-Training/tr
 
 Assignment: [Constructor](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/Levelone)
 
-# Week 2: Keywords, Object Modelling and Oops Pillars
+#Week 3: Keywords, Object Modelling and Oops Pillars
 ***
 ## Day 1 - This, Static, Final Keywords and Instance
 ---
@@ -110,7 +110,7 @@ manage customer accounts, deposits, and interest calculations.
 
 Solution: [Files](http://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
 
-# Week 3: Scenario Based Questions
+# Week 4: Scenario Based Questions
 ***
 ## Day 1 - Solved scenario based problems
 ---
@@ -170,3 +170,17 @@ Story: A city wants a smart parking solution that can assign parking slots, calc
 and track availability in real time.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day5)
+
+## Day 4 - Solved scenario based problems
+---
+**date**: 08 Jan 2026
+### Questions:
+
+-  "MediStore – Pharmacy Inventory & Sales System"
+Story: A pharmacy chain needs an app to manage drug inventory, sales, and expiry tracking.
+
+- "TourMate – Travel Itinerary Planner"
+Story: TourMate helps travelers plan and book trips by organizing activities, transportation, and
+stays.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day6)
