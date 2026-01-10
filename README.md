@@ -42,3 +42,18 @@ Assignment: [LinkedList](https://github.com/rudraraj100/BridgeLabz-Training/tree
 - Quick Sort
 
  Assignment: [Sorting_Algorithm](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/algorithm/sortingalgorithm)
+
+ ## Day 3 – Searching alogorithm and Utility classes
+---
+**Date**: 07 Jan 2026
+
+### Topics Covered:
+- StringBuilder
+- StringBuffer
+- FileReader
+- InputStreamReader
+- Linear Search 
+- Binary Search
+
+ Assignment: [Searching Algorithm](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/algorithm/searchingalgorithm) 
+             [Utility classes](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/algorithm/utilityclasses)
