@@ -53,7 +53,11 @@ Focus: Logic building & real-world simulations
 
 Focus: Clean design & object-oriented thinking
 
-## Week 3 -  Data structure algorithm and Oops Scenario questions
+# ---Started Data structure algorithm and Oops Scenario questions---
+
+##  Day 6 – Linked List and oops scenanrio questions
+---
+**Date:** 02 Jan 2026
 
 ## DSA & Linked List Basics(Branch dsa-practice)
 - Introduction to Data Structures in Java  
@@ -63,8 +67,22 @@ Focus: Clean design & object-oriented thinking
 
  Assingment[Linkedlist](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/linkedlist)
 
+## Scenario-Based Applications (Branch java-oops-practice)
+- Hospital Management System  
+- Vehicle Rental Application  
+- University Course Enrollment System  
+- E-Wallet Application  
+- Smart Home Automation System
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1)
+
 ---
-## Stack, Queue & HashMap(Branch dsa-practice)
+
+##  Day 7 – Stack and Queue and oops scenario questions
+---
+**Date:** 03 Jan 2026.
+###  Topics Covered
+#### Stack, Queue & HashMap(Branch dsa-practice)
 - Stack operations and use cases  
 - Queue concepts and implementations  
 - HashMap and hashing functions  
@@ -75,31 +93,53 @@ Assignment: [Stack and queue](https://github.com/rudraraj100/BridgeLabz-Training
 
 ---
 
-## Scenario-Based Applications (Branch java-oops-practice)
-- Hospital Management System  
-- Vehicle Rental Application  
-- University Course Enrollment System  
-- E-Wallet Application  
-- Smart Home Automation System
-
-[Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1)
-
----
-
-## Backend System Design (Branch java-oops-practice)
+#### Backend System Design (Branch java-oops-practice)
 - CabbyGo – Ride-Hailing Application  
 - MyBank – Digital Banking System  
 
-[Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
+
+# Week 3 - Oops sceanrio questions and Sorting, searching, utility classes and analysis
+
+##  Day 1 – Sorting Algorithms
+---
+**Date:** 05 Jan 2026
+
+###  Topics Covered
+
+* Bubble Sort
+* Insertion Sort
+* Merge Sort
+
+Assignment: [Sorting](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/algorithm/sortingalgorithm)
 
 ---
 
-## Academic & E-Commerce Systems (Branch java-oops-practice)
+### Academic & E-Commerce Systems (Branch java-oops-practice)
 - CampusConnect – College Information System  
 - SwiftCart – Online Grocery Shopping App  
 
-[Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3)
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3)
 
+##  Day 2 – Searching Algorithms & Utility Classes
+---
+**Date:** 06 Jan 2026
+
+###  Topics Covered
+#### Searching Algorithms
+* Linear Search
+* Binary Search
+
+Assignment: [Searching algorithm](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/algorithm/searchingalgorithm)
+
+#### Utility Classes
+* StringBuilder
+* StringBuffer
+* FileReader
+* InputStreamReader
+
+Assignment: [Utility classes](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/algorithm/utilityclasses)
+  
 ---
 
 ##  Smart & Lifestyle Applications(Branch java-oops-practice)
@@ -108,7 +148,22 @@ Assignment: [Stack and queue](https://github.com/rudraraj100/BridgeLabz-Training
 - PetPal – Virtual Pet Care Application  
 - EventEase – Event Management Platform
 
-[Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4)
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4)
+
+##  Day 3 – Runtime Analysis
+---
+**Date:** 07 Jan 2026
+
+###  Topics Covered
+
+* What is Runtime Analysis?
+* Understanding Big-O Notation
+* Time Complexity Analysis
+* Space Complexity Analysis
+* Best, Worst, and Average Case Complexities
+* Practical Guidelines for Optimizing Java Code
+
+[Assingment](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/algorithm/analysis)
 
 ---
 
@@ -129,6 +184,35 @@ inventory, orders, and discounts.
 Story: A city wants a smart parking solution that can assign parking slots, calculate charges,
 and track availability in real time.
 
-[Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day5)
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day5)
 
+
+##  Day 4 –  Oops Scenario-Based Problems
 ---
+**Date:** 08 Jan 2026
+
+###  Scenario Questions
+
+#### 1. MediStore – Pharmacy Inventory & Sales System
+*Story:* A pharmacy chain needs an application to manage drug inventory, sales, and expiry tracking.
+
+#### 2. TourMate – Travel Itinerary Planner
+*Story:* TourMate helps travelers plan and book trips by organizing activities, transportation, and stays.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day6)
+
+##  Day 5 – Additional Oops Scenario-Based Problems
+--- 
+**Date:** 09 Jan 2026
+
+#### 1. Artify – Digital Art Marketplace
+*Story:* Artists sell digital art via Artify. Buyers can purchase, license, or subscribe to collections.
+
+#### 2. FoodLoop – Restaurant Ordering System
+*Story:* FoodLoop is an application where users place food orders from local restaurants.
+
+#### 3. SkillForge – Online Learning Portal
+*Story:* A startup builds SkillForge, where instructors upload courses and students enroll, complete, and get certified.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day7)
+
