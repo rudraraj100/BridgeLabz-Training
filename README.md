@@ -22,7 +22,7 @@ Assignment: [class/object](https://github.com/rudraraj100/BridgeLabz-Training/tr
 
 Assignment: [Constructor](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/Levelone)
 
-#Week 3: Keywords, Object Modelling and Oops Pillars
+# Week 3: Keywords, Object Modelling and Oops Pillars
 ***
 ## Day 1 - This, Static, Final Keywords and Instance
 ---
@@ -184,3 +184,20 @@ Story: TourMate helps travelers plan and book trips by organizing activities, tr
 stays.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day6)
+
+## Day 5 - Solved scenario based problems
+---
+**date**: 09 Jan 2026
+### Questions:
+
+- "Artify – Digital Art Marketplace"
+Story: Artists sell digital art via Artify. Buyers can purchase, license, or subscribe to collections.
+
+-  "FoodLoop – Restaurant Ordering System"
+Story: FoodLoop is an app where users place food orders from local restaurants.
+
+- "SkillForge – Online Learning Portal"
+Story: A startup builds SkillForge, where instructors upload courses and students enroll,
+complete, and get certified.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day7)
