@@ -17,7 +17,7 @@
 
 Assignment: [LinkedList](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/linkedlist)
 
-# Week 1: Stack and Queue
+# Week 3: Stack and Queue
 ***
 ## Day 1 – Stack, Queue and hashmap
 ---
@@ -30,3 +30,15 @@ Assignment: [LinkedList](https://github.com/rudraraj100/BridgeLabz-Training/tree
 
  Assignment: [Stack-queue](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/stackandqueue) 
              [Hashmap](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/datastructure/hashmap)
+
+## Day 2 – Sorting Algorithm
+---
+**Date**: 06 Jan 2026
+
+### Topics Covered:
+- Bubble Sort,
+- Insertion Sort,
+- Merge Sort, and
+- Quick Sort
+
+ Assignment: [Sorting_Algorithm](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcept/src/com/algorithm/sortingalgorithm)
