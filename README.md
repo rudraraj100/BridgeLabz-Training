@@ -69,6 +69,7 @@ Assignment: [Stack-queue](https://github.com/rudraraj100/BridgeLabz-Training/tre
  ## Day 6 – Scenario based problems
 ---
 **Date**: 10 Jan 2026
+
 Questions:
 
 - BookShelf – Library Organizer (HashMap + Linked List)
@@ -84,11 +85,12 @@ Emergency → Radiology → Surgery → ICU → Emergency. When an ambulance is 
 Assignment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day1)
 
 
-# Week 3: Scenario Based Problems
+# Week 4: Scenario Based Problems
 ***
 ## Day 1 – Scenario Based Problems
 ---
 **Date**: 12 Jan 2026
+
 Questions:
 
 - CallCenter – Customer Queue Manager (Queue + HashMap)
@@ -112,5 +114,28 @@ Story: A smart city roundabout allows vehicles to enter and exit dynamically. Ea
 node in a Circular Linked List. A Queue manages vehicles waiting to enter.
 
 Assignment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)
+
+## Day 2 – Scenario Based Problems
+---
+**Date**: 13 Jan 2026
+
+Questions:
+
+-  SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+Story: At a supermarket, each checkout counter maintains a Queue of customers. Each
+customer has a list of items, and a HashMap is used to fetch price and stock quickly.
+
+-  ParcelTracker – Delivery Chain Management (Singly Linked List)
+Story: A courier company tracks parcels through stages like Packed → Shipped → In Transit →
+Delivered. Each stage is a node in a Singly Linked List.
+
+- ExamProctor – Online Exam Review System (Stack + HashMap +
+Functions)
+Story: During an online exam, each student’s question navigation is recorded using a Stack
+(last visited question). Answers are stored in a HashMap: questionID → answer.
+A function auto-calculates the score once the student submits.
+
+Assignment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day3)
+
  
              
