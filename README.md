@@ -216,3 +216,25 @@ Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-o
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day7)
 
+##  Day 6 – DSA Scenario-Based Problems
+--- 
+**Date:** 10 Jan 2026
+
+Questions:
+
+- BookShelf – Library Organizer (HashMap + Linked List)
+Story: In a library system, books are arranged based on genre and author. A HashMap maps genre → list of books (LinkedList). Each list is dynamically updated when books are borrowed or returned.
+
+- BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+Story: Neha is working on a custom browser. Each open tab maintains its browsing history with "Back" and "Forward" operations. She uses a Doubly Linked List for history and a Stack to hold closed tabs for reopening.
+
+- AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+Story: In a hospital, there are multiple buildings connected in a circular fashion:
+Emergency → Radiology → Surgery → ICU → Emergency. When an ambulance is bringing in patients, it follows a Circular Linked List to decide the nearest available unit for emergency treatment.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day1)
+
+
+
+
+
