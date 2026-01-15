@@ -201,3 +201,24 @@ Story: A startup builds SkillForge, where instructors upload courses and student
 complete, and get certified.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day7)
+
+# Week 4: Scenario Based Questions
+***
+## Day 1 - Solved scenario based problems
+---
+**date**: 12 Jan 2026
+### Questions:
+
+- "HomeNest – Smart Home Device Manager"
+Story: A tech company builds HomeNest, a system to control smart lights, ACs, locks, and
+cameras.
+
+-  "BudgetWise – Personal Finance Tracker"
+Story: BudgetWise helps users plan monthly budgets and track income/expenses across
+categories.
+
+- "GameBox – Mobile Game Distribution Platform"
+Story: GameBox offers mobile games for download and purchase with features like demos,
+reviews, and leaderboards.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day8)
