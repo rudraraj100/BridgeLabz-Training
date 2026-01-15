@@ -234,6 +234,53 @@ Emergency → Radiology → Surgery → ICU → Emergency. When an ambulance is 
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day1)
 
+# Week 4: DSA and OOPS Scenario Based Problems
+***
+## Day 1 – Dsa and Oops Scenario Based Problems
+---
+**Date**: 12 Jan 2026
+
+Questions: DSA scenario questions
+
+- CallCenter – Customer Queue Manager (Queue + HashMap)
+Story: In a telecom call center, customers are queued based on the time of call. Priority
+customers have a special queue. A HashMap keeps track of the number of times each user has
+called this month.
+
+- TrainCompanion – Compartment Navigation System (Doubly Linked
+List)
+Story: In a long-distance train app, passengers can walk to the next or previous compartment,
+or search for services (like pantry, WiFi). Each compartment is a node in a Doubly Linked List.
+
+- TextEditor – Undo/Redo Functionality (Stack)
+Story: Shanaya is building a basic text editor app. Every action (insert, delete, format) is
+pushed onto a Stack. An Undo action pops from the stack, and Redo uses another stack to
+reapply actions.
+
+- TrafficManager – Roundabout Vehicle Flow (Circular Linked List +
+Queue)
+Story: A smart city roundabout allows vehicles to enter and exit dynamically. Each vehicle is a
+node in a Circular Linked List. A Queue manages vehicles waiting to enter.
+
+Assignment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)
+
+Questions: OOPs scenario questions
+
+- "HomeNest – Smart Home Device Manager"
+Story: A tech company builds HomeNest, a system to control smart lights, ACs, locks, and
+cameras.
+
+-  "BudgetWise – Personal Finance Tracker"
+Story: BudgetWise helps users plan monthly budgets and track income/expenses across
+categories.
+
+- "GameBox – Mobile Game Distribution Platform"
+Story: GameBox offers mobile games for download and purchase with features like demos,
+reviews, and leaderboards.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day8)
+
+
 
 
 
