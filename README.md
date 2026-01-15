@@ -262,7 +262,7 @@ Queue)
 Story: A smart city roundabout allows vehicles to enter and exit dynamically. Each vehicle is a
 node in a Circular Linked List. A Queue manages vehicles waiting to enter.
 
-Assignment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)
 
 Questions: OOPs scenario questions
 
@@ -279,6 +279,29 @@ Story: GameBox offers mobile games for download and purchase with features like 
 reviews, and leaderboards.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day8)
+
+## Day 2 – DSA Scenario Based Problems
+---
+**Date**: 13 Jan 2026
+
+Questions: DSA scenario based questions
+
+-  SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+Story: At a supermarket, each checkout counter maintains a Queue of customers. Each
+customer has a list of items, and a HashMap is used to fetch price and stock quickly.
+
+-  ParcelTracker – Delivery Chain Management (Singly Linked List)
+Story: A courier company tracks parcels through stages like Packed → Shipped → In Transit →
+Delivered. Each stage is a node in a Singly Linked List.
+
+- ExamProctor – Online Exam Review System (Stack + HashMap +
+Functions)
+Story: During an online exam, each student’s question navigation is recorded using a Stack
+(last visited question). Answers are stored in a HashMap: questionID → answer.
+A function auto-calculates the score once the student submits.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day3)
+
 
 
 
