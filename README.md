@@ -329,7 +329,7 @@ The sanctuary houses a variety of birds, each with different abilities:
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day9)
 
-## Day 24 – DSA Scenario Based Problems
+## Day 22 – DSA Scenario Based Problems
 ---
 **Date**: 15 Jan 2026
 
@@ -386,7 +386,51 @@ chosen due to its fast average performance.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day5) 
 
-          
+## Day 24 – DSA and OOPS Scenario Based Problems
+---
+**Date**: 17 Jan 2026
+
+Questions: dsa sceanrio based
+
+- FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+Story: A fleet company schedules vehicle maintenance based on mileage. Each depot sends a
+sorted list of vehicles. To create a master schedule, Merge Sort is used to combine these depot
+lists efficiently.
+
+- ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+Story: At an art exhibition, artists register throughout the day. The system continuously adds
+each entry and maintains a sorted list by registration time for booth assignment. Insertion Sort
+fits well due to the incremental nature.
+
+- IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+Story: At “IceCreamRush,” a small local vendor sells 8 different ice cream flavors. At the end of
+each week, the shopkeeper wants to sort these flavors based on how many times each was
+sold. Since the list is short and he updates it manually, he prefers a simple sorting method —
+Bubble Sort — where he repeatedly compares adjacent sales figures and swaps them if
+Needed.
+
+- SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+Story: A digital kiosk in a library maintains a list of books a user has borrowed. Every time a
+new book is issued, the system adds it to the user's list while keeping it alphabetically sorted
+by title. Since insertions are done one at a time, and the list is usually already sorted, Insertion
+Sort is the perfect fit.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day6) 
+
+Questions: oops scenario based
+
+- You’re building a toy storage system for TinyTown Play School, which wants to keep track of
+bags and the balls inside them.
+Each Bag has:
+● A unique ID, color, and capacity (number of balls it can hold)
+Each Ball has:
+● A unique ID, color, and size (small/medium/large)
+
+- You're working at GeoMeasure Solutions, a company that builds custom software for civil
+engineers and architects. One of their core requirements is to compare line segments on
+blueprints to determine if they are of equal length, or which one is longer.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day10)
 
 
 
