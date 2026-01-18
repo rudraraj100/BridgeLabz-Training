@@ -55,7 +55,7 @@ Focus: Clean design & object-oriented thinking
 
 # ---Started Data structure algorithm and Oops Scenario questions---
 
-##  Day 6 – Linked List and oops scenanrio questions
+##  Day 12 – Linked List and oops scenanrio questions
 ---
 **Date:** 02 Jan 2026
 
@@ -78,7 +78,7 @@ Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-o
 
 ---
 
-##  Day 7 – Stack and Queue and oops scenario questions
+##  Day 13 – Stack and Queue and oops scenario questions
 ---
 **Date:** 03 Jan 2026.
 ###  Topics Covered
@@ -100,9 +100,8 @@ Assignment: [Stack and queue](https://github.com/rudraraj100/BridgeLabz-Training
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
 
 # Week 3 - Oops sceanrio questions and Sorting, searching, utility classes and analysis
-
-##  Day 1 – Sorting Algorithms
 ---
+##  Day 14 – Sorting Algorithms
 **Date:** 05 Jan 2026
 
 ###  Topics Covered
@@ -121,7 +120,7 @@ Assignment: [Sorting](https://github.com/rudraraj100/BridgeLabz-Training/tree/ds
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3)
 
-##  Day 2 – Searching Algorithms & Utility Classes
+##  Day 15 – Searching Algorithms & Utility Classes
 ---
 **Date:** 06 Jan 2026
 
@@ -150,7 +149,7 @@ Assignment: [Utility classes](https://github.com/rudraraj100/BridgeLabz-Training
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4)
 
-##  Day 3 – Runtime Analysis
+##  Day 16 – Runtime Analysis
 ---
 **Date:** 07 Jan 2026
 
@@ -187,7 +186,7 @@ and track availability in real time.
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day5)
 
 
-##  Day 4 –  Oops Scenario-Based Problems
+##  Day 17 –  Oops Scenario-Based Problems
 ---
 **Date:** 08 Jan 2026
 
@@ -201,9 +200,24 @@ Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-o
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day6)
 
-##  Day 5 – Additional Oops Scenario-Based Problems
+##  Day 18 – Additional Oops Scenario-Based Problems
+# ---Started Collection framework---
 --- 
 **Date:** 09 Jan 2026
+Collection Framework
+
+### Topic covered:
+- Introduction to Generics
+- Type Parameters
+- Generic Classes
+- Generic Methods
+- Bounded Type Parameters
+- Wildcards
+
+Solution: [generics](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/generics)
+
+---
+questions:
 
 #### 1. Artify – Digital Art Marketplace
 *Story:* Artists sell digital art via Artify. Buyers can purchase, license, or subscribe to collections.
@@ -216,7 +230,7 @@ Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-o
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day7)
 
-##  Day 6 – DSA Scenario-Based Problems
+##  Day 19 – DSA Scenario-Based Problems
 --- 
 **Date:** 10 Jan 2026
 
@@ -236,7 +250,7 @@ Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-pr
 
 # Week 4: DSA and OOPS Scenario Based Problems
 ***
-## Day 1 – Dsa and Oops Scenario Based Problems
+## Day 20 – Dsa and Oops Scenario Based Problems
 ---
 **Date**: 12 Jan 2026
 
@@ -280,7 +294,7 @@ reviews, and leaderboards.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day8)
 
-## Day 2 – DSA Scenario Based Problems
+## Day 21 – DSA Scenario Based Problems
 ---
 **Date**: 13 Jan 2026
 
