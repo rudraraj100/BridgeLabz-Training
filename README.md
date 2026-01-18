@@ -222,3 +222,21 @@ Story: GameBox offers mobile games for download and purchase with features like 
 reviews, and leaderboards.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day8)
+
+## Day 2 - Solved scenario based problems
+---
+**date**: 13 Jan 2026
+### Questions:
+
+- "PayXpress – Utility Bill Payment System"
+Story: PayXpress enables users to pay utility bills (electricity, water, internet) with tracking and
+reminders.
+
+- You are hired by the EcoWing Wildlife Conservation Center, which runs a Bird Sanctuary to
+protect and study various birds. They want to digitize their tracking and behavior management
+system.
+The sanctuary houses a variety of birds, each with different abilities:
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day9)
+
+
