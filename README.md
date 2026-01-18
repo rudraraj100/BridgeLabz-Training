@@ -239,4 +239,21 @@ The sanctuary houses a variety of birds, each with different abilities:
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day9)
 
+## Day 3 - Solved scenario based problems
+---
+**date**: 18 Jan 2026
+### Questions:
+
+- You’re building a toy storage system for TinyTown Play School, which wants to keep track of
+bags and the balls inside them.
+Each Bag has:
+● A unique ID, color, and capacity (number of balls it can hold)
+Each Ball has:
+● A unique ID, color, and size (small/medium/large)
+
+- You're working at GeoMeasure Solutions, a company that builds custom software for civil
+engineers and architects. One of their core requirements is to compare line segments on
+blueprints to determine if they are of equal length, or which one is longer.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day10)
 
