@@ -241,7 +241,7 @@ Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-o
 
 ## Day 3 - Solved scenario based problems
 ---
-**date**: 18 Jan 2026
+**date**: 17 Jan 2026
 ### Questions:
 
 - You’re building a toy storage system for TinyTown Play School, which wants to keep track of
