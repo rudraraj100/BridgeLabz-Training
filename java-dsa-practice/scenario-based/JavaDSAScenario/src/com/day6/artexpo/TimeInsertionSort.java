@@ -8,7 +8,7 @@ public class TimeInsertionSort {
 	public static void insertionSort(ArrayList<ArtistInfo> list , int n) {
 		
 		
-		for(int i = 1; i < n-1; i++) {
+		for(int i = 1; i < n; i++) {
 			ArtistInfo key = list.get(i);
 			int j = i-1;
 			

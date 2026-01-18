@@ -12,25 +12,27 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		ArrayList<ArtistInfo> list = new ArrayList<>();
 		
-		String choice;
 		
-		do {
-			System.out.println("Enter Artist name: ");
-			String name = sc.nextLine();
+		
+		while(true) {
 			
+		    System.out.println("Enter Artist name: ");
+			String name = sc.nextLine().toLowerCase().trim();
+			
+			if(name.equals("no")) {
+				break;
+			}
+	
 			System.out.println("Time of registrations:(hh:mm) ");
 			DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm");
 			LocalTime time = LocalTime.parse(sc.nextLine(), formatter);
 			
 			list.add(new ArtistInfo(time, name));
 			
-			System.out.println("Do you want to insert more artist info? yes/no");
-			choice = sc.nextLine().toLowerCase().trim();
+			TimeInsertionSort.insertionSort(list , list.size());
 				
 		}
-		while(choice.equals("yes"));
 		
-		TimeInsertionSort.insertionSort(list , list.size());
 		
 		System.out.println("Sorted artist registration list:\n");
 		for(ArtistInfo a : list) {
