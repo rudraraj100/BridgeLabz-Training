@@ -137,5 +137,37 @@ A function auto-calculates the score once the student submits.
 
 Assignment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day3)
 
- 
+## Day 3 – Scenario Based Problems
+---
+**Date**: 14 Jan 2026
+
+Questions:
+
+- HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+Story: At Apollo Hospital, patients in the ER are initially listed by arrival time. However, before
+assigning beds, the staff wants to sort them by criticality level (1–10). Since the list is usually
+small (10–20 patients), Bubble Sort is used to quickly sort patients in-place without using extra
+memory.
+
+- SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+Story: In a digital library kiosk, as users add books to their reading list, the system must keep
+the list sorted alphabetically by title. Since books are added one at a time and the list is
+mostly sorted, Insertion Sort fits perfectly.
+
+- ZipZipMart – Daily Sales Summary Report (Merge Sort)
+Story: ZipZipMart compiles thousands of daily sales records from all branches. To generate
+reports, the system sorts transactions by date and amount using Merge Sort, which ensures
+stability and efficiency with large datasets.
+
+- EventManager – Ticket Price Optimizer (Quick Sort)
+Story: An event booking portal sorts millions of tickets by price before showing the top 50
+cheapest or most expensive. Since speed is crucial and data is unsorted, Quick Sort is used for
+its average-case performance.
+
+- ExamCell – Student Rank Generator (Merge Sort)
+Story: An online exam system collects scores from multiple test centers. To publish a
+state-level rank list, student scores are merged and sorted using Merge Sort, ensuring
+performance and accuracy.
+
+Assignment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day4) 
              
