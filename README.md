@@ -193,3 +193,35 @@ The large data needs to be sorted quickly by timestamp before visualization. Qui
 chosen due to its fast average performance.
 
 Assignment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day5) 
+
+## Day 5 – Scenario Based Problems
+---
+**Date**: 17 Jan 2026
+
+Questions:
+
+- FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+Story: A fleet company schedules vehicle maintenance based on mileage. Each depot sends a
+sorted list of vehicles. To create a master schedule, Merge Sort is used to combine these depot
+lists efficiently.
+
+- ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+Story: At an art exhibition, artists register throughout the day. The system continuously adds
+each entry and maintains a sorted list by registration time for booth assignment. Insertion Sort
+fits well due to the incremental nature.
+
+- IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+Story: At “IceCreamRush,” a small local vendor sells 8 different ice cream flavors. At the end of
+each week, the shopkeeper wants to sort these flavors based on how many times each was
+sold. Since the list is short and he updates it manually, he prefers a simple sorting method —
+Bubble Sort — where he repeatedly compares adjacent sales figures and swaps them if
+Needed.
+
+- SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+Story: A digital kiosk in a library maintains a list of books a user has borrowed. Every time a
+new book is issued, the system adds it to the user's list while keeping it alphabetically sorted
+by title. Since insertions are done one at a time, and the list is usually already sorted, Insertion
+Sort is the perfect fit.
+
+Assignment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day6) 
+
