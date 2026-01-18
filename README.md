@@ -329,7 +329,7 @@ The sanctuary houses a variety of birds, each with different abilities:
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day9)
 
-## Day 21 – DSA Scenario Based Problems
+## Day 24 – DSA Scenario Based Problems
 ---
 **Date**: 15 Jan 2026
 
@@ -362,6 +362,30 @@ state-level rank list, student scores are merged and sorted using Merge Sort, en
 performance and accuracy.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day4) 
+
+## Day 23 – DSA Scenario Based Problems
+---
+**Date**: 16 Jan 2026
+
+Questions:
+
+- RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+Story: A robot loads packages onto shelves based on weight. It adds one package at a time
+and must maintain an ascending order by weight for balance. Insertion Sort helps since new
+items are inserted into the sorted list dynamically.
+
+- CinemaHouse – Movie Time Sorting (Bubble Sort)
+Story: A small local cinema lists daily movie shows. The screen manager updates showtimes
+manually and prefers a simple sorting logic. Since the number of shows is small (~10), Bubble
+Sort is used.
+
+- CropMonitor – Sensor Data Ordering (Quick Sort)
+Story: An agri-tech firm uses drone sensors that record soil temperatures at random intervals.
+The large data needs to be sorted quickly by timestamp before visualization. Quick Sort is
+chosen due to its fast average performance.
+
+Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day5) 
+
           
 
 
