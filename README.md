@@ -1,4 +1,4 @@
-# --- Started Design Principle(SOLID) and Design Patterns and Multi-Threading
+# --- Started Design Principle(SOLID) and Design Patterns and Multi-Threading ---
 
 ## Day 1 – Solid principle and Design patterns
 ---
