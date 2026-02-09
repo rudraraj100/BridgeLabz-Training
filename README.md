@@ -28,5 +28,21 @@ Topic covered:
 
 Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/collection)
 
+## Day 3 – Java Streams
+---
+**Date**: 19 Jan 2026
+
+Topic covered:
+- Java I/O Streams
+- Types of Streams
+ 1. File Streams
+ 2. Object Streams
+ 3. ByteArray Streams
+ 4. Buffered Streams
+ 5. Reader and Writer
+
+Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/streams)
+
+
 
 
