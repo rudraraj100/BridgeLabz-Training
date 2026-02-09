@@ -1,2 +1,17 @@
 # --- Started JAVA 8 features ---
 
+## Day 1 –Lambda expression and funtional interface
+---
+**Date**: 27 Jan 2026
+
+Topic covered:
+- Lambda Expressions
+- Method References
+- Defining and Implementing Interfaces (Best Practices)
+- Functional Interfaces
+- Default and Static Methods in Interfaces
+- Marker Interfaces
+
+Assingment: [Lambda expression](https://github.com/rudraraj100/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesPractice/src/com/lambaexpression)
+Assingment: [Funtional interface](https://github.com/rudraraj100/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesPractice/src/com/funtionalinterface)
+
