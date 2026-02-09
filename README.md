@@ -62,7 +62,7 @@ Topic covered:
 
 Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/exceptionhandling)
 
-## Day 25 – Regex and Junit
+## Day 5 – Regex and Junit
 ---
 **Date**: 21 Jan 2026
 
@@ -78,4 +78,22 @@ Topic covered:
 Assingment: [Regex](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/regex)
 Assingment: [Junit](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/junit)
 
+## Day 6 – Annotation and Reflection
+---
+**Date**: 22 Jan 2026
 
+Topic covered:
+- Introduction to Annotations
+- Common Built-in Annotations
+- Creating Custom Annotations
+- Advanced Custom Annotations
+- Real-World Use Cases
+- Annotation Processing Tools
+
+- Reflection
+- Understanding of Reflection
+- Using Reflection in Java
+- Annotations and Reflection
+
+Assingment: [Annotation](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/annotations)
+Assingment: [Reflection](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/reflections)
