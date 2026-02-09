@@ -480,7 +480,7 @@ Topic covered:
 
 Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/exceptionhandling)
 
-## Day 28 – Exceptions
+## Day 28 – Regex and Junit
 ---
 **Date**: 21 Jan 2026
 
@@ -496,7 +496,7 @@ Topic covered:
 Assingment: [Regex](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/regex)
 Assingment: [Junit](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/junit)
 
-## Day 29 – CSV file handling
+## Day 29 – Annotation and Reflection
 ---
 **Date**: 22 Jan 2026
 
