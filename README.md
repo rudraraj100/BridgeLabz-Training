@@ -43,6 +43,24 @@ Topic covered:
 
 Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/streams)
 
+## Day 27 – Exceptions
+---
+**Date**: 20 Jan 2026
+
+Topic covered:
+- Exceptions 
+- Types of Exceptions
+  - Checked Exceptions,
+  - Unchecked Exceptions
+  - Custom Exceptions
+- Handling Exceptions 
+- try-catch blocks
+- try-catch-finally blocks
+- try-with-resources statement
+- throws clause
+- throw statement
+
+Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/exceptionhandling)
 
 
 
