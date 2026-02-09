@@ -432,7 +432,192 @@ blueprints to determine if they are of equal length, or which one is longer.
 
 Solution: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day10)
 
+## Day 25 – Collections
+---
+**Date**: 18 Jan 2026
 
+Topic covered:
+- Overview of Collections Framework
+- What is the Collections Framework?
+- Hierarchy of Collections Framework
+- List Interface and Implementing Classes
+- Set Interface and Implementing Classes
+- Queue and Deque Interfaces
 
+Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/collection)
 
+## Day 26 – Java Streams
+---
+**Date**: 19 Jan 2026
+
+Topic covered:
+- Java I/O Streams
+- Types of Streams
+ 1. File Streams
+ 2. Object Streams
+ 3. ByteArray Streams
+ 4. Buffered Streams
+ 5. Reader and Writer
+
+Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/streams)
+
+## Day 27 – Exceptions
+---
+**Date**: 20 Jan 2026
+
+Topic covered:
+- Exceptions 
+- Types of Exceptions
+  - Checked Exceptions,
+  - Unchecked Exceptions
+  - Custom Exceptions
+- Handling Exceptions 
+- try-catch blocks
+- try-catch-finally blocks
+- try-with-resources statement
+- throws clause
+- throw statement
+
+Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/exceptionhandling)
+
+## Day 28 – Exceptions
+---
+**Date**: 21 Jan 2026
+
+Topic covered:
+- Regex
+- MetaCharacter
+- Quantifie
+- Introduction to JUnit Framework
+- JUnit Annotations
+- Writing Test Cases
+- Structure of a Test Class
+
+Assingment: [Regex](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/regex)
+Assingment: [Junit](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/junit)
+
+## Day 29 – CSV file handling
+---
+**Date**: 22 Jan 2026
+
+Topic covered:
+- Introduction to Annotations
+- Common Built-in Annotations
+- Creating Custom Annotations
+- Advanced Custom Annotations
+- Real-World Use Cases
+- Annotation Processing Tools
+
+- Reflection
+- Understanding of Reflection
+- Using Reflection in Java
+- Annotations and Reflection
+
+Assingment: [Annotation](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/annotations)
+Assingment: [Reflection](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/reflections)
+
+## Day 30 – CSV file handling
+---
+**Date**: 23 Jan 2026
+
+Topic covered:
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+
+Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/iostream-concept-practice/src/main/java/csvdatahandling)
+
+## Day 31 –JSON data
+---
+**Date**: 24 Jan 2026
+
+Topic covered:
+- Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
+
+Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/iostream-concept-practice/src/main/java/jsondata)
+
+# ---Started JAVA 8 features---
+
+## Day 32 –Lambda expression and funtional interface
+---
+**Date**: 27 Jan 2026
+
+Topic covered:
+- Lambda Expressions
+- Method References
+- Defining and Implementing Interfaces (Best Practices)
+- Functional Interfaces
+- Default and Static Methods in Interfaces
+- Marker Interfaces
+
+Assingment: [Lambda expression](https://github.com/rudraraj100/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesPractice/src/com/lambaexpression)
+Assingment: [Funtional interface](https://github.com/rudraraj100/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesPractice/src/com/funtionalinterface)
+
+## Day 33 –Stream api
+---
+**Date**: 28 Jan 2026
+
+Topic covered:
+- Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
+
+Assingment: [Stream api](https://github.com/rudraraj100/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesPractice/src/com/streamapi)
+  
+## Day 34 – Collectors
+---
+**Date**: 29 Jan 2026
+
+Topic covered:
+- Collectors - Roles and Capabilities
+
+Assingment: [Collectors](https://github.com/rudraraj100/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesPractice/src/com/collectors)
+
+# ---Started Design pattern and multithreading---
+
+## Day 35 – Solid principle and Design patterns
+---
+**Date**: 31 Jan 2026
+
+Topic covered:
+Introduction to Design Principles
+1. Single Responsibility Principle (SRP)
+2. Open/Closed Principle (OCP)
+3. Liskov Substitution Principle (LSP)
+4. Interface Segregation Principle (ISP)
+5. Dependency Inversion Principle (DIP)
+6. Don't Repeat Yourself (DRY)
+7. Keep It Simple, Stupid (KISS)
+8. You Aren't Gonna Need It (YAGNI)
+
+Introduction to GoF Design Pattern
+- Categories of Patterns (GoF classification)
+- Singleton Pattern
+- Factory Pattern
+- Observer Pattern
+- Builder Pattern
+- UML Designing
+
+Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-design-patterns-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/designpattern)
+
+## Day 36 – Multi-Threading
+---
+**Date**: 02 Feb 2026
+
+Topic covered:
+- Multithreading process
+- Life cycle
+- Pros cons
+- Runnable and thread
+
+Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-design-patterns-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/multithreading)
 
