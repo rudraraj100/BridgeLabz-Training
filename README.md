@@ -25,3 +25,16 @@ Introduction to GoF Design Pattern
 
 Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-design-patterns-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/designpattern)
 
+## Day 2 – Multi-Threading
+---
+**Date**: 02 Feb 2026
+
+Topic covered:
+- Multithreading process
+- Life cycle
+- Pros cons
+- Runnable and thread
+
+Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-design-patterns-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/multithreading)
+
+
