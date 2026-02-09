@@ -43,7 +43,7 @@ Topic covered:
 
 Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/streams)
 
-## Day 27 – Exceptions
+## Day 4 – Exceptions
 ---
 **Date**: 20 Jan 2026
 
@@ -62,5 +62,20 @@ Topic covered:
 
 Assingment: [Files](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/exceptionhandling)
 
+## Day 25 – Regex and Junit
+---
+**Date**: 21 Jan 2026
+
+Topic covered:
+- Regex
+- MetaCharacter
+- Quantifie
+- Introduction to JUnit Framework
+- JUnit Annotations
+- Writing Test Cases
+- Structure of a Test Class
+
+Assingment: [Regex](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/regex)
+Assingment: [Junit](https://github.com/rudraraj100/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/junit)
 
 
