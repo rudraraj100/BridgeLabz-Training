@@ -1,0 +1,109 @@
+mysql> CREATE DATABASE bankingsystem;
+Query OK, 1 row affected (0.02 sec)
+
+mysql> USE bankingsystem;
+Database changed
+mysql> CREATE TABLE accounts (
+    -> account_id INT PRIMARY KEY,
+    -> account_holder VARCHAR(50),
+    -> balance DECIMAL(10,2)
+    -> );
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> CREATE TABLE transactions (
+    ->  txn_id INT AUTO_INCREMENT PRIMARY KEY,
+    -> from_account INT,
+    -> amount DECIMAL(10,2),
+    -> txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    -> );
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> INSERT INTO accounts VALUES
+    -> (101, 'Roma', 50000),
+    -> (102, 'Alex', 30000),
+    -> (103, 'Maya', 40000);
+Query OK, 3 rows affected (0.02 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> SELECT * FROM accounts;
++------------+----------------+----------+
+| account_id | account_holder | balance  |
++------------+----------------+----------+
+|        101 | Roma           | 50000.00 |
+|        102 | Alex           | 30000.00 |
+|        103 | Maya           | 40000.00 |
++------------+----------------+----------+
+3 rows in set (0.00 sec)
+
+mysql> START TRANSACTION;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql>
+mysql> SELECT balance FROM accounts WHERE account_id = 101;
++----------+
+| balance  |
++----------+
+| 50000.00 |
++----------+
+1 row in set (0.00 sec)
+
+mysql> UPDATE accounts SET balance = balance - 10000 WHERE account_id = 101;
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> UPDATE accounts SET balance = balance + 10000 WHERE account_id = 102;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> INSERT INTO transactions (from_account, to_account, amount) VALUES (101, 102, 10000);
+ERROR 1054 (42S22): Unknown column 'to_account' in 'field list'
+mysql> show table transactionn;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'transactionn' at line 1
+mysql> SHOW TABLE transactions;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'transactions' at line 1
+mysql> DESC transactions;
++--------------+---------------+------+-----+-------------------+-------------------+
+| Field        | Type          | Null | Key | Default           | Extra             |
++--------------+---------------+------+-----+-------------------+-------------------+
+| txn_id       | int           | NO   | PRI | NULL              | auto_increment    |
+| from_account | int           | YES  |     | NULL              |                   |
+| amount       | decimal(10,2) | YES  |     | NULL              |                   |
+| txn_date     | timestamp     | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED |
++--------------+---------------+------+-----+-------------------+-------------------+
+4 rows in set (0.04 sec)
+
+mysql> ALTER TABLE transactions ADD to_account INT;
+Query OK, 0 rows affected (0.10 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> DESC transactions;
++--------------+---------------+------+-----+-------------------+-------------------+
+| Field        | Type          | Null | Key | Default           | Extra             |
++--------------+---------------+------+-----+-------------------+-------------------+
+| txn_id       | int           | NO   | PRI | NULL              | auto_increment    |
+| from_account | int           | YES  |     | NULL              |                   |
+| amount       | decimal(10,2) | YES  |     | NULL              |                   |
+| txn_date     | timestamp     | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED |
+| to_account   | int           | YES  |     | NULL              |                   |
++--------------+---------------+------+-----+-------------------+-------------------+
+5 rows in set (0.00 sec)
+
+mysql> INSERT INTO transactions (from_account, to_account, amount) VALUES (101, 102, 10000);
+Query OK, 1 row affected (0.00 sec)
+
+mysql> SELECT * FROM transactions;
++--------+--------------+----------+---------------------+------------+
+| txn_id | from_account | amount   | txn_date            | to_account |
++--------+--------------+----------+---------------------+------------+
+|      1 |          101 | 10000.00 | 2026-02-15 14:04:35 |        102 |
++--------+--------------+----------+---------------------+------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT account_id, account_holder, balance FROM accounts;
++------------+----------------+----------+
+| account_id | account_holder | balance  |
++------------+----------------+----------+
+|        101 | Roma           | 40000.00 |
+|        102 | Alex           | 40000.00 |
+|        103 | Maya           | 40000.00 |
++------------+----------------+----------+
