@@ -55,12 +55,6 @@ mysql> UPDATE accounts SET balance = balance + 10000 WHERE account_id = 102;
 Query OK, 1 row affected (0.00 sec)
 Rows matched: 1  Changed: 1  Warnings: 0
 
-mysql> INSERT INTO transactions (from_account, to_account, amount) VALUES (101, 102, 10000);
-ERROR 1054 (42S22): Unknown column 'to_account' in 'field list'
-mysql> show table transactionn;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'transactionn' at line 1
-mysql> SHOW TABLE transactions;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'transactions' at line 1
 mysql> DESC transactions;
 +--------------+---------------+------+-----+-------------------+-------------------+
 | Field        | Type          | Null | Key | Default           | Extra             |
