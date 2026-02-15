@@ -1,0 +1,73 @@
+mysql> CREATE DATABASE managementsystem;
+Query OK, 1 row affected (0.02 sec)
+
+mysql> USE managementsystem;
+Database changed
+mysql> CREATE TABLE employee (
+    ->  id INT PRIMARY KEY AUTO_INCREMENT,
+    -> employee_name VARCHAR(50),
+    -> salary INT
+    -> );
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> SELECT * FROM employee;
+Empty set (0.01 sec)
+
+mysql> INSERT INTO employee (employee_name, salary)
+    -> VALUES
+    -> ('Roma', 12000),
+    -> ('Alex', 9500),
+    -> ('Maya', 15000);
+Query OK, 3 rows affected (0.01 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> SELECT * FROM employee;
++----+---------------+--------+
+| id | employee_name | salary |
++----+---------------+--------+
+|  1 | Roma          |  12000 |
+|  2 | Alex          |   9500 |
+|  3 | Maya          |  15000 |
++----+---------------+--------+
+3 rows in set (0.00 sec)
+
+mysql> UPDATE employee SET salary = 18000 WHERE id = 1;
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> SELECT * FROM employee;
++----+---------------+--------+
+| id | employee_name | salary |
++----+---------------+--------+
+|  1 | Roma          |  18000 |
+|  2 | Alex          |   9500 |
+|  3 | Maya          |  15000 |
++----+---------------+--------+
+3 rows in set (0.00 sec)
+
+mysql> SELECT * FROM employee WHERE employee_name = 'Roma';
++----+---------------+--------+
+| id | employee_name | salary |
++----+---------------+--------+
+|  1 | Roma          |  18000 |
++----+---------------+--------+
+1 row in set (0.00 sec)
+
+mysql> DELETE FROM employee WHERE id = 1;
+Query OK, 1 row affected (0.00 sec)
+
+mysql> SELECT * FROM employee;
++----+---------------+--------+
+| id | employee_name | salary |
++----+---------------+--------+
+|  2 | Alex          |   9500 |
+|  3 | Maya          |  15000 |
++----+---------------+--------+
+2 rows in set (0.00 sec)
+
+mysql> SELECT * FROM employee WHERE employee_name = 'Maya';
++----+---------------+--------+
+| id | employee_name | salary |
++----+---------------+--------+
+|  3 | Maya          |  15000 |
++----+---------------+--------+
